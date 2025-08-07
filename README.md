@@ -1,4 +1,4 @@
-# sales-data-analysis
+# Sales-Data-Analysis
 Portfolio Project: Sales Data Analysis and Visualization using Python.
 This project is a data analysis of a fictional company's sales data using Python and Google Colab.  
 The goal is to uncover insights from over 50,000+ sales records to improve decision-making.
