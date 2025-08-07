@@ -36,6 +36,6 @@ The core deliverables include:
 - Adjust dataset path or parameters as necessary.
 - Export desired visualizations or summary CSVs from provided cells.
 
-## Authoe
+## Author
 Md Addul Aziz Faizan
 Email: mohdfaizan9493@mail.com
